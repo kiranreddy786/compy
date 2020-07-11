@@ -1,0 +1,132 @@
+{
+    "items": [
+        {
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "title": "queen panel bed",
+                "price": 10.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/room1.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "title": "queen panel bed",
+                "price": 11.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/room2.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "title": "queen panel bed",
+                "price": 13.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/room3.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "title": "queen panel bed",
+                "price": 3.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/room4.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "title": "queen panel bed",
+                "price": 19.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/room5.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "title": "queen panel bed",
+                "price": 16.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/room6.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "title": "queen panel bed",
+                "price": 10.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/room7.jpg"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "title": "queen panel bed",
+                "price": 9.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "./images/room8.jpg"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
